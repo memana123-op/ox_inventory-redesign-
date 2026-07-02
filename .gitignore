@@ -1,0 +1,9 @@
+modules/logs/**/
+.cfg
+node_modules
+.idea
+.luarc.jsonc
+
+# OS cruft
+.DS_Store
+Thumbs.db
